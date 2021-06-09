@@ -1,3 +1,3 @@
-export function getData() {
+function getData() {
   return "Station12をクリア!";
 }
